@@ -25,4 +25,4 @@ This WordPress Woocommerce plugin is comprised of two parts:
 
 1. The PHP code is licensed under the GPL license as is WordPress itself. http://wordpress.org/about/gpl/ 
 
-2. The plugin itself is licensed according to the license purchased.
+2. The Plugin itself is licensed according to the license purchased.
