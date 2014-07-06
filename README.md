@@ -3,7 +3,7 @@ woocommerce-quickteller
 
 The Quickteller Woocommerce Payment Gateway allows you to accept payments on your Woocommerce store Using VISA, MasterCard, and Verve Cards.
 
-For download and installation instructions call: +234 0903 800 8801
+For download and installation instructions contact: +234 0903 800 8801, -> contact@freeman.com.ng
 
 
 Note: This plugin is for Interswitch's new Pay With Quickteller package.
