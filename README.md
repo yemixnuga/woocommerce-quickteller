@@ -20,7 +20,7 @@ Features:
 
 Licenses:
 
-This WordPress Woocommerce plugin is comprised of two parts:
+This WordPress Woocommerce plugin comprises of two parts:
 
 
 1. The PHP code is licensed under the GPL license as is WordPress itself. http://wordpress.org/about/gpl/ 
